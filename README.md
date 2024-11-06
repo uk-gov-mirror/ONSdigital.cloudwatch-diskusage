@@ -1,6 +1,12 @@
 cloudwatch-diskusage
 ====================
 
+---
+
+:warning: This repository will be archived in November 2024 and is no longer in development. :warning:
+
+---
+
 A custom CloudWatch metric for reporting available filesystem storage.
 
 ### Getting started
